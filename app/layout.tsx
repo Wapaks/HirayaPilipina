@@ -1,6 +1,7 @@
 // app/layout.tsx
 import { Playfair_Display, Poppins } from "next/font/google";
 import "./globals.css";
+import { ReactNode } from "react";
 
 const playfair = Playfair_Display({
   subsets: ["latin"],
@@ -19,7 +20,11 @@ export const metadata = {
   description: "Using next/font best practices",
 };
 
-export default function RootLayout({ children }) {
+interface RootLayoutProps {
+  children: ReactNode;
+}
+
+export default function RootLayout({ children }: RootLayoutProps) {
   return (
     <html lang="en" className={`${playfair.variable} ${poppins.variable}`}>
       <body>{children}</body>
