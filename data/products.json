@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "BOSOM CAKE - Push-Up Silicone Bra",
+    "price": "₱349",
+    "image": "/images/products/bosom-cake.png",
+    "featured": true,
+    "category": "Push Up Bra"
+  },
+  {
+    "id": 2,
+    "name": "SLAP ON PASTIES",
+    "price": "₱500",
+    "image": "/images/products/slap-on.png",
+    "featured": true,
+    "category": "Nipple Pasties"
+  },
+  {
+    "id": 3,
+    "name": "Hiraya Pilipina | Boob Tape Oil",
+    "price": "₱399",
+    "image": "/images/products/boob-tape-oil.png",
+    "featured": true,
+    "category": "Product Care"
+  },
+  {
+    "id": 4,
+    "name": "NIPPLE PASTIES - Adhesive Nipple Covers",
+    "price": "₱299",
+    "image": "/images/products/nipple-pasties.png",
+    "featured": true,
+    "category": "Nipple Pasties"
+  },
+  {
+    "id":5,
+    "name": "NEW VERSION SLAP ON PASTIES",
+    "price": "₱299",
+    "image": "/images/products/newver-slapon.png",
+    "featured": true,
+    "category": "Nipple Pasties"
+  },
+  {
+    "id":6,
+    "name": "SOFT CLOUD - Cloth Adhesive Push-Up Bra",
+    "price": "₱599",
+    "image": "/images/products/softcloud.png",
+    "featured": false,
+    "category": "Push Up Bra"
+  },
+  {
+    "id":7,
+    "name": "LIFTING PASTIES",
+    "price": "₱149.50",
+    "image": "/images/products/softcloud.png",
+    "featured": false,
+    "category": "Nipple Pasties"
+  }
+]
